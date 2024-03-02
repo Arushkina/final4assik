@@ -4,9 +4,6 @@
 
 This web application offers a unique blend of functionalities catering to both superhero enthusiasts and those keeping up with new comics. It features user registration, action history tracking, and integrates APIs for Marvel superheroes and comics, as well as, REST API. Additionally, the application includes an admin panel for user account and REST API management. #Table of Contents ADMIN LOGIN: Admin PASSWORD: 123456789 Installation Usage Features Dependencies Configuration Documentation Examples Troubleshooting Contributors License Installation bash Copy code
 
-## Clone the repository
-
-git clone [https://github.com/kh4mzin/assignment4.git]
 
 ## Install dependencies
 
